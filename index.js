@@ -1,4 +1,4 @@
 // write your code below!
-var name = "Joe"
+var firstName = "Mine"
 var height = "74"
-var message = `${name} is ${height} inches tall`
+var message = `${firstName} is ${height} inches tall`
